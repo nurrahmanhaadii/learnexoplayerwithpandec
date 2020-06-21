@@ -1,0 +1,3 @@
+include ':exoplayer'
+include ':app'
+rootProject.name = "ExoPlayer with Pandec"
